@@ -11,6 +11,8 @@ coletado. O sistema permitirá que o jogador cadastre, remova, liste e busque po
 
 Autor: Elder de Souza Pachito - Matrícula: 202505123303
 
+Data: 29/07/2026
+
 */
 
 // Inclusão das bibliotecas necessárias para a entrada, exibição de dados e operações com strings:
