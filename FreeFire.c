@@ -2,16 +2,20 @@
 
 DISCIPLINA: ESTRUTURA DE DADOS (3o. Período)
 
-DESAFIO NOVATO - TEMA 2 - JOGO FREE FIRE - CÓDIGO DA ILHA
+DESAFIO AVENTUREIRO - TEMA 2 - JOGO FREE FIRE - CÓDIGO DA ILHA
 
-Neste desafio, o objetivo é implementar, com o uso de estruturas de dados compostas (structs) e listas sequenciais, a
-representação dos itens do inventário. Este desafio construirá um sistema de inventário que simulará a mochila de loot
-inicial do jogador. Para isso, será criarada uma struct chamada Item, que armazenará informações essenciais de cada objeto
-coletado. O sistema permitirá que o jogador cadastre, remova, liste e busque por itens dentro da mochila.
+OBSERVAÇÃO: As instruções para este desafio são DIVERGENTES, quando comparamos o VÍDEO-AULA e o TEXTO DO CONTEÚDO,
+            correspondentes. Como as instruções em TEXTO DO CONTEÚDO solicitam o uso de métodos AINDA NÃO ENSINADOS,
+            até o presente estágio do tema, OPTOU-SE por considerar as instruções dadas pelo VÍDEO-AULA e ignorar as
+            instruções do TEXTO DO CONTEÚDO. Espera-se implementar os métodos de SORT no nível MESTRE, após a apresentação
+            dos métodos necessários pelo respectivo tema.            
+
+Neste desafio, CONFORME INSTRUÇÕES DADAS PELO VÍDEO-AULA CORRESPONDENTE (e não pelo texto),o objetivo é implementar uma
+nova opção de menu para buscar um item por nome, utilizando busca sequencial, e exibir os seus dados na tela.
 
 Autor: Elder de Souza Pachito - Matrícula: 202505123303
 
-Data: 29/07/2026
+Data: 30/07/2026
 
 */
 
